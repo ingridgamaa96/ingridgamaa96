@@ -35,7 +35,7 @@
   
   
   
-  ![snake gif](https://github.com/ingridgamaa96/ingridgamaa96/blob/output/github-contribution-grid-snake.svg)
+
             
  
 </div>
