@@ -1,8 +1,10 @@
-### Hello my name is Ingrid Gama
-  I'm a Beck and developer and a future fullstack 🚀🚀
- - 🔭 I’m currently working on Beck-And/ Java / Spring Boot...
- - 🌱 I’m currently learning Spring Boot, Docker , MySql ...
+### Hello, I'm Ingrid Gama! 👋
 
+I'm a Backend Developer with a passion for building robust and scalable applications. 🚀
+
+- 🔭 Currently, I'm immersed in the world of Beck-And/Java/Spring Boot.
+- 🌱 Always eager to learn, I'm currently expanding my skills with Spring Boot, Docker, and MySQL.
+- 🤖 Automation enthusiast! I love streamlining processes for efficiency.
 
 
 
