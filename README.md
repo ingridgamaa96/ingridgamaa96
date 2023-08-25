@@ -3,7 +3,7 @@
 I'm a Backend Developer with a passion for building robust and scalable applications. 🚀
 
 - 🔭 Currently, I'm immersed in the world of Beck-And/Java/Spring Boot.
-- 🌱 Always eager to learn, I'm currently expanding my skills with Spring Boot, Docker, and MySQL.
+- 🌱 Always eager to learn, I'm currently expanding my skills with Spring Boot, MySQL.
 - 🤖 Automation enthusiast! I love streamlining processes for efficiency.
 
 
@@ -14,7 +14,7 @@ I'm a Backend Developer with a passion for building robust and scalable applicat
    <img align="center" alt="springboot" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
       
    <img align="center" alt="mysql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />  
-   <img align="center" alt="docker" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  
          
    
            
