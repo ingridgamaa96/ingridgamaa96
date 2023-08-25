@@ -2,7 +2,7 @@
 
 I'm a Backend Developer with a passion for building robust and scalable applications. 🚀
 
-- 🔭 Currently, I'm immersed in the world of Back-And/Java/Spring Boot.
+- 🔭 Currently, I'm immersed in the world of Back-end/Java/Spring Boot.
 - 🌱 Always eager to learn, I'm currently expanding my skills with Spring Boot, MySQL.
 - 🤖 Automation enthusiast! I love streamlining processes for efficiency. Also, I'm passionate about Security and Hacking.🔒🔍
 
