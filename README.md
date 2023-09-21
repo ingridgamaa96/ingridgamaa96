@@ -7,7 +7,6 @@ I'm a Backend Developer with a passion for building robust and scalable applicat
 - 🤖 Automation enthusiast! I love streamlining processes for efficiency. Also, I'm passionate about Security and Hacking.🔒🔍
 
 
-
 <div style="display: inline_block"><br>
   
    <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   
