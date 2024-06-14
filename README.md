@@ -15,6 +15,7 @@ I'm a Backend Developer with a passion for building robust and scalable applicat
           
       
    <img align="center" alt="mysql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> 
+    <img align="center" alt="aws" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
    
           
           
