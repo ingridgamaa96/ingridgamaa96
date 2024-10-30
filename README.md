@@ -9,9 +9,7 @@ I'm a Backend Developer with a passion for building robust and scalable applicat
 
 <div style="display: inline_block"><br>
   
-   <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   
-   <img align="center" alt="springboot" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-    <img align="center" alt="javaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
    
           
       
