@@ -1,24 +1,16 @@
 ### Hello, I'm Ingrid Gama! 👋
 
-I'm a Backend Developer with a passion for building robust and scalable applications. 🚀
+💻 Backend Developer who loves challenges and contributing to the open-source community!
+🔭 Working with: Java and Spring Boot.
+🌱 Currently diving into: Rust, Python, Bitcoin, and Bitcoin protocols.
+🔒 Passionate about: Security, automation, and building innovative solutions for Bitcoin projects.
 
-- 🔭 Currently, I'm immersed in the world of Back-end/Java/Spring Boot.
-- 🌱 Always eager to learn, I'm currently expanding my skills with Spring Boot, MySQL, Wordpress , Elementor 
-- 🤖 Automation enthusiast! I love streamlining processes for efficiency. Also, I'm passionate about Security and Hacking.🔒🔍
+💡 Constantly learning and exploring new ways to contribute to open-source initiatives in the Bitcoin ecosystem!
 
 
 <div style="display: inline_block"><br>
   
-
-   
-          
-
-   
-          
-          
-   
-  
-           
+            
                           
 </div>
   
